@@ -1,0 +1,82 @@
+// Global
+
+*
+  box-sizing: border-box
+
+body
+  font: 14px/24px menlo, "monospaced"
+
+a
+  text-decoration: none
+  color: black
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p
+  font-size: 100%
+  margin-top: 0
+
+img
+  max-width: 100%
+
+.wrapper 
+  margin: 50px
+  max-width: 850px
+
+  @media (min-width: 950px)
+    margin: 50px auto
+
+nav
+  width: auto
+  height: 50px
+  margin: 0 0 100px
+
+  a
+    float: left
+    line-height: 50px
+
+  a+a
+    float: right
+
+.content
+  clear: both
+
+// homepage
+
+.thumbnail
+  float: left
+  width: 250px
+  height: 200px
+  margin: 0 50px 50px 0
+  border: 1px solid black
+  text-align: center
+  line-height: 200px
+
+  &:hover
+    background: url(/images/hired-loop.gif)
+
+  &:nth-of-type(3n+3)
+    margin: 0 0 50px 0
+
+  @media (max-width: 950px)
+    width: 29.411764705882%
+    height: auto
+    margin: 0 5.882352941177% 50px 0
+
+// project page
+ 
+hgroup
+  margin: 0 0 50px 0
+
+  h1
+    float: left
+  p
+    float: right
+    width: 250px
+
+    @media (max-width: 950px)
+      width: 29.411764705882%
+
