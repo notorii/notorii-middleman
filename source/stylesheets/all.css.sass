@@ -21,13 +21,18 @@ p
 
 img
   max-width: 100%
+  margin: 0 auto
 
 .wrapper 
-  margin: 50px
+  margin: 50px 50px 100px
   max-width: 850px
+  -webkit-animation: fade-in 1s .1s 1 ease-in both
+  -moz-animation:    fade-in 1s .1s 1 ease-in both
+  -o-animation:      fade-in 1s .1s 1 ease-in both
+  animation:         fade-in 1s .1s 1 ease-in both
 
   @media (min-width: 950px)
-    margin: 50px auto
+    margin: 50px auto 100px
 
 nav
   width: auto
@@ -45,38 +50,113 @@ nav
   clear: both
 
 // homepage
+.index
+  .thumbnail
+    float: left
+    width: 100%
+    margin: 0 auto 50px 0
+    border: 1px solid black
+    text-align: center
+    line-height: 200px
+    color: transparent
 
-.thumbnail
-  float: left
-  width: 250px
-  height: 200px
-  margin: 0 50px 50px 0
-  border: 1px solid black
-  text-align: center
-  line-height: 200px
+      color: black
 
-  &:hover
-    background: url(/images/hired-loop.gif)
+    @media (min-width: 450px)
+      width: 45.454545454545%
+      height: auto
+      margin: 0 9.090909090909% 50px 0
+    
+      &:nth-of-type(2n+2)
+        margin: 0 0 50px 0
+   
+    @media (min-width: 650px)
+      width: 29.411764705882%
+      height: auto
+      margin: 0 5.882352941177% 50px 0
 
-  &:nth-of-type(3n+3)
-    margin: 0 0 50px 0
+      &:nth-of-type(2n+2)
+        margin: 0 5.882352941177% 50px 0
 
-  @media (max-width: 950px)
-    width: 29.411764705882%
-    height: auto
-    margin: 0 5.882352941177% 50px 0
+      &:nth-of-type(3n+3)
+        margin: 0 0 50px 0
+
+    @media (min-width: 950px)
+      width: 250px
+      height: 200px
+      margin: 0 50px 50px 0    
+
+      &:nth-of-type(3n+3)
+        margin: 0 0 50px 0
+
+    // project thumbs
+
+    &.one
+      background: url(/images/homepage/hired-thumb.png) center center no-repeat
+
+      &:hover
+        background: url(/images/homepage/hired-loop.gif)      
+
+    &.two
+      background: url(/images/homepage/money-and-tech-thumb.png) center center no-repeat
+      
+      &:hover
+        background: url(/images/homepage/hired-loop.gif)  
+
+    &.three
+      background: url(/images/homepage/the-silk-road-thumb.png) center center no-repeat
+      
+      &:hover
+        background: url(/images/homepage/hired-loop.gif)  
+
+    &.four
+      background: url(/images/homepage/paleo-thumb.png) center center no-repeat
+      
+      &:hover
+        background: url(/images/homepage/hired-loop.gif) 
+
+    &.five
+      background: url(/images/homepage/regatta-thumb.png) center center no-repeat
+      
+      &:hover
+        background: url(/images/homepage/hired-loop.gif) 
+
+    &.six
+      background: url(/images/homepage/pirelli-thumb.png) center center no-repeat
+      
+      &:hover
+        background: url(/images/homepage/hired-loop.gif) 
+
+// about page
+
+.about
+  p
+    max-width: 500px
+    margin: 0 auto 25px
 
 // project page
  
-hgroup
-  margin: 0 0 50px 0
+.project,
+.hired
+  .logo
+    display: block
+    margin: 150px auto 200px
 
-  h1
-    float: left
-  p
-    float: right
-    width: 250px
+  hgroup
+    margin: 0 0 50px 0
 
-    @media (max-width: 950px)
-      width: 29.411764705882%
+    h1
+      float: left
+    p
+      float: right
+      width: 250px
 
+      @media (max-width: 950px)
+        width: 29.411764705882%
+
+      @media (max-width: 450px)
+        clear: both
+        width: 100%       
+
+  section
+    margin: 200px 0 50px 0

@@ -374,12 +374,29 @@ table {
     border-spacing: 0;
 }
 
-.cf:before,
-.cf:after {
+.clearfix:before,
+.clearfix:after {
     content: " "; /* 1 */
     display: table; /* 2 */
 }
 
-.cf:after {
+.clearfix:after {
     clear: both;
+}
+
+@-webkit-keyframes fade-in 
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+@-moz-keyframes fade-in {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+@-o-keyframes fade-in {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+@keyframes fade-in {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
 }
