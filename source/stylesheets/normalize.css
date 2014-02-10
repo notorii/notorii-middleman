@@ -388,15 +388,25 @@ table {
     0%   { opacity: 0; }
     100% { opacity: 1; }
 }
+
 @-moz-keyframes fade-in {
     0%   { opacity: 0; }
     100% { opacity: 1; }
 }
+
 @-o-keyframes fade-in {
     0%   { opacity: 0; }
     100% { opacity: 1; }
 }
+
 @keyframes fade-in {
     0%   { opacity: 0; }
     100% { opacity: 1; }
+}
+
+.wrapper {
+  -webkit-animation: fade-in 1s .1s 1 ease-in both
+  -moz-animation:    fade-in 1s .1s 1 ease-in both
+  -o-animation:      fade-in 1s .1s 1 ease-in both
+  animation:         fade-in 1s .1s 1 ease-in both
 }
