@@ -4,11 +4,15 @@
   box-sizing: border-box
 
 body
-  font: 14px/24px menlo, "monospaced"
+  font: 12px/25px menlo, "monospaced"
 
 a
   text-decoration: none
   color: black
+  font-weight: bold
+
+  &:hover
+    text-decoration: underline
 
 h1,
 h2,
@@ -24,7 +28,7 @@ img
   margin: 0 auto
 
 .wrapper 
-  margin: 50px 50px 100px
+  margin: 50px
   max-width: 850px
   -webkit-animation: fade-in 1s .1s 1 ease-in both
   -moz-animation:    fade-in 1s .1s 1 ease-in both
@@ -32,22 +36,29 @@ img
   animation:         fade-in 1s .1s 1 ease-in both
 
   @media (min-width: 950px)
-    margin: 50px auto 100px
+    margin: 100px auto 50px
 
 nav
   width: auto
-  height: 50px
+  height: 25px
   margin: 0 0 100px
 
   a
     float: left
-    line-height: 50px
 
   a+a
     float: right
+    line-height: 25px
+
 
 .content
   clear: both
+
+footer
+  margin-top: 50px
+  font-size: 9px
+  text-align: center
+  opacity: .5
 
 // homepage
 .index
@@ -55,13 +66,17 @@ nav
     float: left
     width: 100%
     margin: 0 auto 50px 0
-    border: 1px solid black
     text-align: center
+    text-decoration: none
     line-height: 200px
     color: transparent
 
     &:hover
       color: white
+
+      .project-title
+        background: black
+        padding: 2px 6px
 
     @media (min-width: 450px)
       width: 45.454545454545%
@@ -93,38 +108,38 @@ nav
     // project thumbs
 
     &.one
-      background: url(/images/homepage/hired-thumb.png) center center no-repeat
+      background: rgb(230, 230, 230) url(/images/homepage/hired-thumb.png) center center no-repeat
 
       &:hover
         background: url(/images/homepage/hired-loop.gif)      
 
     &.two
-      background: url(/images/homepage/money-and-tech-thumb.png) center center no-repeat
-      
+      background: rgb(0, 28, 169) url(/images/homepage/money-and-tech-thumb.png) center center no-repeat
+
       &:hover
         background: url(/images/homepage/money-and-tech-loop.gif)  
 
     &.three
-      background: url(/images/homepage/the-silk-road-thumb.png) center center no-repeat
-      
+      background: rgb(163, 140, 97) url(/images/homepage/the-silk-road-thumb.png) center center no-repeat
+
       &:hover
         background: url(/images/homepage/the-silk-road-loop.gif)  
 
     &.four
-      background: url(/images/homepage/paleo-thumb.png) center center no-repeat
-      
+      background: forestgreen url(/images/homepage/paleo-thumb.png) center center no-repeat
+
       &:hover
         background: url(/images/homepage/hired-loop.gif) 
 
     &.five
-      background: url(/images/homepage/regatta-thumb.png) center center no-repeat
-      
+      background: skyblue url(/images/homepage/regatta-thumb.png) center center no-repeat
+
       &:hover
         background: url(/images/homepage/hired-loop.gif) 
 
     &.six
-      background: url(/images/homepage/pirelli-thumb.png) center center no-repeat
-      
+      background: #ffff00 url(/images/homepage/pirelli-thumb.png) center center no-repeat
+
       &:hover
         background: url(/images/homepage/hired-loop.gif) 
 
@@ -143,23 +158,21 @@ nav
 .money-and-tech
   .logo
     display: block
-    margin: 150px auto 200px
+    margin: 150px auto 250px
 
-  hgroup
-    margin: 0 0 50px 0
+  h1
+    border-bottom: 1px solid rgb(230,230,230)
+  p
+    clear: both
+    float: right
+    width: 500px
 
-    h1
-      float: left
-    p
-      float: right
-      width: 250px
+    @media (max-width: 950px)
+      width: 29.411764705882%
 
-      @media (max-width: 950px)
-        width: 29.411764705882%
-
-      @media (max-width: 450px)
-        clear: both
-        width: 100%       
+    @media (max-width: 450px)
+      clear: both
+      width: 100%
 
   section
-    margin: 200px 0 50px 0
+    margin: 200px 0 25px 0
