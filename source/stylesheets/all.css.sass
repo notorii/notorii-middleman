@@ -36,7 +36,7 @@ img
   animation:         fade-in 1s .1s 1 ease-in both
 
   @media (min-width: 950px)
-    margin: 100px auto 50px
+    margin: 100px auto
 
 nav
   width: auto
@@ -57,8 +57,11 @@ nav
 footer
   margin-top: 50px
   font-size: 9px
-  text-align: center
+  text-align: right
   opacity: .5
+
+  a
+    float: left
 
 // homepage
 .index
@@ -147,8 +150,13 @@ footer
 
 .about
   p
-    max-width: 500px
+    max-width: 450px
     margin: 0 auto 25px
+
+    &.reference
+      margin-top: 25px
+      font-size: 9px
+      opacity: .5
 
 // project page
  
@@ -160,12 +168,16 @@ footer
     display: block
     margin: 150px auto 250px
 
+  img
+    margin-bottom: 25px
+
   h1
     border-bottom: 1px solid rgb(230,230,230)
+
   p
     clear: both
     float: right
-    width: 500px
+    width: 450px
 
     @media (max-width: 950px)
       width: 29.411764705882%
@@ -175,4 +187,4 @@ footer
       width: 100%
 
   section
-    margin: 200px 0 25px 0
+    margin: 200px 0 0 0

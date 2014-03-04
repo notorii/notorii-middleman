@@ -3,22 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/homepage/hired-loop.gif" afterPath="$PROJECT_DIR$/source/images/homepage/hired-loop.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/homepage/money-and-tech-loop.gif" afterPath="$PROJECT_DIR$/source/images/homepage/money-and-tech-loop.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/homepage/the-silk-road-loop.gif" afterPath="$PROJECT_DIR$/source/images/homepage/the-silk-road-loop.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about.html.erb" afterPath="$PROJECT_DIR$/source/about.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hired.html.erb" afterPath="$PROJECT_DIR$/source/hired.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.erb" afterPath="$PROJECT_DIR$/source/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.erb" afterPath="$PROJECT_DIR$/source/layouts/layout.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/notorii.svg" afterPath="$PROJECT_DIR$/source/images/notorii.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/the-silk-road.html.erb" afterPath="$PROJECT_DIR$/source/the-silk-road.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/money-and-tech.html.erb" afterPath="$PROJECT_DIR$/source/money-and-tech.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="notorii.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393825925915" ignored="false" />
-    <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393820883868" ignored="false" />
-    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393829781473" ignored="false" />
-    <file path="/index.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393821660185" ignored="false" />
+    <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393908039834" ignored="false" />
+    <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393904805351" ignored="false" />
+    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393904490260" ignored="false" />
+    <file path="/index.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393849553543" ignored="false" />
     <file path="/layout.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393822485695" ignored="false" />
-    <file path="/hired.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393832516978" ignored="false" />
+    <file path="/hired.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393849976494" ignored="false" />
+    <file path="$PROJECT_DIR$/../vame-website/build/app/views/record/share.php" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393908274769" ignored="false" />
+    <file path="/share.php" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393908258125" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
       <file leaf-file-name="all.css.sass" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="22" selection-start="1738" selection-end="1741" vertical-scroll-proportion="0.0">
+            <state line="156" column="22" selection-start="2945" selection-end="2945" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -50,7 +54,7 @@
       <file leaf-file-name="layout.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="8" selection-start="532" selection-end="562" vertical-scroll-proportion="-11.25">
+            <state line="25" column="16" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -59,7 +63,7 @@
       <file leaf-file-name="about.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/about.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="2" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
+            <state line="24" column="45" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,7 +72,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="91" selection-end="100" vertical-scroll-proportion="-3.75">
+            <state line="34" column="0" selection-start="660" selection-end="673" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +81,7 @@
       <file leaf-file-name="hired.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="10" selection-start="3600" selection-end="3600" vertical-scroll-proportion="0.89285713">
+            <state line="108" column="0" selection-start="3479" selection-end="3675" vertical-scroll-proportion="0.6471428">
               <folding />
             </state>
           </provider>
@@ -86,7 +90,7 @@
       <file leaf-file-name="money-and-tech.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="26" column="0" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,17 +114,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/about.html.erb" />
+        <option value="$PROJECT_DIR$/source/money-and-tech.html.erb" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
         <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/source/hired.html.erb" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
+        <option value="$PROJECT_DIR$/source/about.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="111" />
+    <option name="x" value="7" />
+    <option name="y" value="113" />
     <option name="width" value="1420" />
     <option name="height" value="860" />
   </component>
@@ -150,7 +155,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,10 +225,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -239,14 +245,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="111" width="1420" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="7" y="113" width="1420" height="860" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27292576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -322,6 +328,34 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="91" selection-end="100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="10" selection-start="3600" selection-end="3600" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -364,44 +398,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="22" selection-start="1738" selection-end="1741" vertical-scroll-proportion="0.0">
+        <state line="26" column="0" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="532" selection-end="562" vertical-scroll-proportion="-11.25">
+        <state line="25" column="16" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="91" selection-end="100" vertical-scroll-proportion="-3.75">
+        <state line="34" column="0" selection-start="660" selection-end="673" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="22" selection-start="2945" selection-end="2945" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="45" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="10" selection-start="3600" selection-end="3600" vertical-scroll-proportion="0.89285713">
+        <state line="108" column="0" selection-start="3479" selection-end="3675" vertical-scroll-proportion="0.6471428">
           <folding />
         </state>
       </provider>
