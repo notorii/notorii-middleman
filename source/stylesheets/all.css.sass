@@ -55,13 +55,16 @@ nav
   clear: both
 
 footer
-  margin-top: 50px
+  margin-top: 100px
   font-size: 9px
   text-align: right
   opacity: .5
 
-  a
+  a,
+  span
     float: left
+    &.divider
+      margin: 0 5px
 
 // homepage
 .index
@@ -111,40 +114,43 @@ footer
     // project thumbs
 
     &.one
-      background: rgb(230, 230, 230) url(/images/homepage/hired-thumb.png) center center no-repeat
+      background: rgb(30, 30, 30) url(/images/homepage/hired-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/hired-loop.gif)      
+        background: rgb(30, 30, 30)
 
     &.two
       background: rgb(0, 28, 169) url(/images/homepage/money-and-tech-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/money-and-tech-loop.gif)  
+        background: rgb(0, 28, 169)
 
     &.three
       background: rgb(163, 140, 97) url(/images/homepage/the-silk-road-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/the-silk-road-loop.gif)  
+        background: rgb(163, 140, 97)
 
     &.four
-      background: forestgreen url(/images/homepage/paleo-thumb.png) center center no-repeat
+      background: rgb(170, 30, 30) url(/images/homepage/paleo-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/hired-loop.gif) 
+        background: rgb(170, 30, 30)
 
     &.five
-      background: skyblue url(/images/homepage/regatta-thumb.png) center center no-repeat
+      background: rgb(235, 180, 96) url(/images/homepage/regatta-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/hired-loop.gif) 
+        background: rgb(235, 180, 96)
 
     &.six
-      background: #ffff00 url(/images/homepage/pirelli-thumb.png) center center no-repeat
+      background: rgb(19, 184, 136) url(/images/homepage/vame-thumb.png) center center no-repeat
 
       &:hover
-        background: url(/images/homepage/hired-loop.gif) 
+        background: rgb(19, 184, 136)
+
+  footer
+    margin-top: 50px
 
 // about page
 
@@ -177,7 +183,7 @@ footer
   p
     clear: both
     float: right
-    width: 450px
+    width: 425px
 
     @media (max-width: 950px)
       width: 29.411764705882%
