@@ -2,28 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual.png" afterPath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual2.png" afterPath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual3.png" afterPath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual4.png" afterPath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual5.png" afterPath="$PROJECT_DIR$/source/images/projects/the-silk-road/the-silk-road-brand-manual5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" afterPath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/the-silk-road.html.erb" afterPath="$PROJECT_DIR$/source/the-silk-road.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about.html.erb" afterPath="$PROJECT_DIR$/source/about.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/money-and-tech.html.erb" afterPath="$PROJECT_DIR$/source/money-and-tech.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/vame.html.erb" afterPath="$PROJECT_DIR$/source/vame.html.erb" />
     </list>
     <ignored path="notorii.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393974970412" ignored="false" />
-    <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393990062310" ignored="false" />
+    <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393997865833" ignored="false" />
+    <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394000900309" ignored="false" />
     <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971351193" ignored="false" />
     <file path="/index.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971198758" ignored="false" />
     <file path="/layout.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971012338" ignored="false" />
     <file path="/hired.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393932918623" ignored="false" />
     <file path="$PROJECT_DIR$/../vame-website/build/app/views/record/share.php" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393908274769" ignored="false" />
     <file path="/share.php" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393908258125" ignored="false" />
-    <file path="/money-and-tech.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393989051718" ignored="false" />
+    <file path="/money-and-tech.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393998698914" ignored="false" />
     <file path="/the-silk-road.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393991327497" ignored="false" />
     <file path="/project.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393970747052" ignored="false" />
-    <file path="/vame.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971590246" ignored="false" />
+    <file path="/vame.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394001795648" ignored="false" />
     <file path="/nicolin-mathiasson.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393995283768" ignored="false" />
     <file path="/local-tribes.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971513086" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,25 +45,16 @@
       <file leaf-file-name="all.css.sass" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="24" selection-start="2076" selection-end="2086" vertical-scroll-proportion="0.0">
+            <state line="151" column="125" selection-start="2756" selection-end="2756" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nicolin-mathiasson.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
+      <file leaf-file-name="vame.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="60" selection-start="116" selection-end="116" vertical-scroll-proportion="0.14516129">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hired.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="60" selection-start="86" selection-end="102" vertical-scroll-proportion="-3.125">
+            <state line="48" column="50" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.5945455">
               <folding />
             </state>
           </provider>
@@ -75,29 +63,7 @@
       <file leaf-file-name="money-and-tech.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="65" selection-start="817" selection-end="817" vertical-scroll-proportion="10.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="79" selection-start="596" selection-end="596" vertical-scroll-proportion="-18.75">
-              <folding>
-                <marker date="1393971201000" expanded="true" signature="587:594" placeholder="..." />
-                <marker date="1393971201000" expanded="true" signature="604:680" placeholder="..." />
-                <marker date="1393971201000" expanded="true" signature="642:656" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="652" selection-end="652" vertical-scroll-proportion="-13.125">
+            <state line="33" column="65" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-16.125">
               <folding />
             </state>
           </provider>
@@ -106,16 +72,7 @@
       <file leaf-file-name="about.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/about.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="12" selection-start="758" selection-end="758" vertical-scroll-proportion="-11.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="the-silk-road.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/the-silk-road.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="351" selection-end="754" vertical-scroll-proportion="-7.5">
+            <state line="16" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -144,21 +101,21 @@
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/source/local-tribes.html.erb" />
-        <option value="$PROJECT_DIR$/source/vame.html.erb" />
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
-        <option value="$PROJECT_DIR$/source/money-and-tech.html.erb" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
-        <option value="$PROJECT_DIR$/source/about.html.erb" />
         <option value="$PROJECT_DIR$/source/the-silk-road.html.erb" />
         <option value="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
+        <option value="$PROJECT_DIR$/source/money-and-tech.html.erb" />
+        <option value="$PROJECT_DIR$/source/about.html.erb" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
+        <option value="$PROJECT_DIR$/source/vame.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="1222" />
-    <option name="width" value="1420" />
-    <option name="height" value="790" />
+    <option name="x" value="458" />
+    <option name="y" value="228" />
+    <option name="width" value="1236" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -232,6 +189,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="notorii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="notorii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -280,14 +255,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="1222" width="1420" height="790" extended-state="0" />
+    <frame x="458" y="228" width="1236" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2860262" sideWeight="0.67058825" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20168068" sideWeight="0.67058825" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -380,11 +355,7 @@
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="23" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1393971201000" expanded="true" signature="587:594" placeholder="..." />
-            <marker date="1393971201000" expanded="true" signature="604:680" placeholder="..." />
-            <marker date="1393971201000" expanded="true" signature="642:656" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -395,16 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/local-tribes.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="345" selection-end="532" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="163" selection-end="163" vertical-scroll-proportion="0.02170767">
-          <folding />
-        </state>
+        <state line="20" column="0" selection-start="345" selection-end="532" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -416,67 +378,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.24101198">
-          <folding />
-        </state>
+        <state line="38" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.24101198" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="79" selection-start="596" selection-end="596" vertical-scroll-proportion="-18.75">
-          <folding>
-            <marker date="1393971201000" expanded="true" signature="587:594" placeholder="..." />
-            <marker date="1393971201000" expanded="true" signature="604:680" placeholder="..." />
-            <marker date="1393971201000" expanded="true" signature="642:656" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="24" selection-start="2076" selection-end="2086" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="65" selection-start="817" selection-end="817" vertical-scroll-proportion="10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="652" selection-end="652" vertical-scroll-proportion="-13.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="12" selection-start="758" selection-end="758" vertical-scroll-proportion="-11.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/the-silk-road.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="351" selection-end="754" vertical-scroll-proportion="-7.5">
+        <state line="6" column="60" selection-start="116" selection-end="116" vertical-scroll-proportion="0.028462999">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="86" selection-end="102" vertical-scroll-proportion="-3.125">
+        <state line="5" column="60" selection-start="86" selection-end="102" vertical-scroll-proportion="0.02918288">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="60" selection-start="116" selection-end="116" vertical-scroll-proportion="0.14516129">
+        <state line="30" column="79" selection-start="596" selection-end="596" vertical-scroll-proportion="0.7">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="30" selection-start="652" selection-end="652" vertical-scroll-proportion="0.57272726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/the-silk-road.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="351" selection-end="754" vertical-scroll-proportion="0.02793296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="65" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-16.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="125" selection-start="2756" selection-end="2756" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="50" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.5945455">
           <folding />
         </state>
       </provider>
