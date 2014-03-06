@@ -2,29 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/hired/hired-interior-design.png" afterPath="$PROJECT_DIR$/source/images/projects/hired/hired-interior-design.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-posters.jpg" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-posters.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide2.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide3.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide4.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide5.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide6.png" afterPath="$PROJECT_DIR$/source/images/projects/nicolin-mathiasson/nicolin-mathiasson-style-guide6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/homepage/nicolin-mathiasson-thumb.jpg" afterPath="$PROJECT_DIR$/source/images/homepage/nicolin-mathiasson-thumb.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hired.html.erb" afterPath="$PROJECT_DIR$/source/hired.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/local-tribes.html.erb" afterPath="$PROJECT_DIR$/source/local-tribes.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/money-and-tech.html.erb" afterPath="$PROJECT_DIR$/source/money-and-tech.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" afterPath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/the-silk-road.html.erb" afterPath="$PROJECT_DIR$/source/the-silk-road.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/vame.html.erb" afterPath="$PROJECT_DIR$/source/vame.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="notorii.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394089720510" ignored="false" />
     <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394006980254" ignored="false" />
-    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394089747519" ignored="false" />
+    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394097587644" ignored="false" />
     <file path="/index.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971198758" ignored="false" />
     <file path="/layout.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971012338" ignored="false" />
     <file path="/hired.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394096057544" ignored="false" />
@@ -55,10 +39,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="all.css.sass" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="all.css.sass" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="14" selection-start="3374" selection-end="3374" vertical-scroll-proportion="0.0">
+            <state line="131" column="34" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.6188748">
               <folding />
             </state>
           </provider>
@@ -73,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="money-and-tech.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="money-and-tech.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="0.58365756">
+            <state line="20" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
@@ -141,13 +125,13 @@
         <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
         <option value="$PROJECT_DIR$/source/about.html.erb" />
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
         <option value="$PROJECT_DIR$/source/hired.html.erb" />
         <option value="$PROJECT_DIR$/source/the-silk-road.html.erb" />
         <option value="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
         <option value="$PROJECT_DIR$/source/vame.html.erb" />
         <option value="$PROJECT_DIR$/source/local-tribes.html.erb" />
         <option value="$PROJECT_DIR$/source/money-and-tech.html.erb" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
       </list>
     </option>
   </component>
@@ -491,13 +475,6 @@
         <state line="25" column="5" selection-start="718" selection-end="736" vertical-scroll-proportion="0.698324" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="14" selection-start="3374" selection-end="3374" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="692" selection-end="763" vertical-scroll-proportion="-13.75">
@@ -535,7 +512,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="0.58365756">
+        <state line="20" column="55" selection-start="437" selection-end="437" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="34" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.6188748">
           <folding />
         </state>
       </provider>
