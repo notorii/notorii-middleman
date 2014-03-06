@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about.html.erb" afterPath="$PROJECT_DIR$/source/about.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board2.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board3.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board4.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board5.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board6.png" afterPath="$PROJECT_DIR$/source/images/projects/local-tribes/local-tribes-mood-board6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hired.html.erb" afterPath="$PROJECT_DIR$/source/hired.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/local-tribes.html.erb" afterPath="$PROJECT_DIR$/source/local-tribes.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" afterPath="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/vame.html.erb" afterPath="$PROJECT_DIR$/source/vame.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="notorii.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394058428413" ignored="false" />
     <file path="/about.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394006980254" ignored="false" />
-    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971351193" ignored="false" />
+    <file path="/all.css.sass" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394067488710" ignored="false" />
     <file path="/index.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971198758" ignored="false" />
     <file path="/layout.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393971012338" ignored="false" />
     <file path="/hired.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393932918623" ignored="false" />
@@ -20,9 +27,9 @@
     <file path="/money-and-tech.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393998698914" ignored="false" />
     <file path="/the-silk-road.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393991327497" ignored="false" />
     <file path="/project.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393970747052" ignored="false" />
-    <file path="/vame.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394060150202" ignored="false" />
-    <file path="/nicolin-mathiasson.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1393995283768" ignored="false" />
-    <file path="/local-tribes.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394006941828" ignored="false" />
+    <file path="/vame.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394062464334" ignored="false" />
+    <file path="/nicolin-mathiasson.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394067588927" ignored="false" />
+    <file path="/local-tribes.html.erb" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394066935792" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,41 +52,7 @@
       <file leaf-file-name="all.css.sass" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="125" selection-start="2756" selection-end="2756" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vame.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="60" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.8696498">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vame-landing-page-browser.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/images/projects/vame/vame-landing-page-browser.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="money-and-tech.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="65" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/about.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="5" selection-start="718" selection-end="736" vertical-scroll-proportion="-15.625">
+            <state line="137" column="35" selection-start="2432" selection-end="2432" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -88,7 +61,16 @@
       <file leaf-file-name="local-tribes.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/local-tribes.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="57" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+            <state line="44" column="63" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-15.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nicolin-mathiasson.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="54" selection-start="110" selection-end="110" vertical-scroll-proportion="0.16363636">
               <folding />
             </state>
           </provider>
@@ -112,18 +94,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/hired.html.erb" />
         <option value="$PROJECT_DIR$/source/project.html.erb" />
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
         <option value="$PROJECT_DIR$/source/the-silk-road.html.erb" />
-        <option value="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
         <option value="$PROJECT_DIR$/source/money-and-tech.html.erb" />
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
-        <option value="$PROJECT_DIR$/source/local-tribes.html.erb" />
         <option value="$PROJECT_DIR$/source/about.html.erb" />
         <option value="$PROJECT_DIR$/source/vame.html.erb" />
+        <option value="$PROJECT_DIR$/source/hired.html.erb" />
+        <option value="$PROJECT_DIR$/source/local-tribes.html.erb" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
+        <option value="$PROJECT_DIR$/source/nicolin-mathiasson.html.erb" />
       </list>
     </option>
   </component>
@@ -446,16 +428,6 @@
         <state line="38" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.24101198" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="60" selection-start="116" selection-end="116" vertical-scroll-proportion="0.028462999" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="86" selection-end="102" vertical-scroll-proportion="0.02918288" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="79" selection-start="596" selection-end="596" vertical-scroll-proportion="0.7" />
@@ -471,30 +443,9 @@
         <state line="19" column="0" selection-start="351" selection-end="754" vertical-scroll-proportion="0.02793296" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="65" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="125" selection-start="2756" selection-end="2756" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/local-tribes.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="57" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="5" selection-start="718" selection-end="736" vertical-scroll-proportion="-15.625">
+        <state line="69" column="34" selection-start="1686" selection-end="1686" vertical-scroll-proportion="0.4163424">
           <folding />
         </state>
       </provider>
@@ -504,9 +455,44 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/vame.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/money-and-tech.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="60" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.8696498">
+        <state line="33" column="65" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.02793296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="5" selection-start="718" selection-end="736" vertical-scroll-proportion="0.698324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hired.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="62" selection-start="3576" selection-end="3576" vertical-scroll-proportion="0.72625697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/local-tribes.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="63" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="35" selection-start="2432" selection-end="2432" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/nicolin-mathiasson.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="54" selection-start="110" selection-end="110" vertical-scroll-proportion="0.16363636">
           <folding />
         </state>
       </provider>
