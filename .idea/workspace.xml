@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/homepage/nicolin-mathiasson-thumb.jpg" afterPath="$PROJECT_DIR$/source/images/homepage/nicolin-mathiasson-thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about.html.erb" afterPath="$PROJECT_DIR$/source/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hired.html.erb" afterPath="$PROJECT_DIR$/source/hired.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.erb" afterPath="$PROJECT_DIR$/source/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/money-and-tech.html.erb" afterPath="$PROJECT_DIR$/source/money-and-tech.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/vame.html.erb" afterPath="$PROJECT_DIR$/source/vame.html.erb" />
-    </list>
+    <list default="true" id="c30e61f9-beac-45a7-b597-2c0a17123e62" name="Default" comment="" />
     <ignored path="notorii.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c30e61f9-beac-45a7-b597-2c0a17123e62" time="1394152471721" ignored="false" />
@@ -384,7 +373,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1236" height="697" extended-state="0" />
+    <frame x="0" y="22" width="1236" height="697" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
