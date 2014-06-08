@@ -153,16 +153,16 @@ footer {
       color: white; }
   /* line 147, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
   .index .thumbnail.five {
-    background: #002033 url(/images/homepage/bank-of-america-thumb-dc522c63.png) center center no-repeat; }
+    background: #13b888 url(/images/homepage/vame-thumb-9fd339d2.png) center center no-repeat; }
     /* line 150, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
     .index .thumbnail.five:hover {
-      background: #002033; }
+      background: #13b888; }
   /* line 153, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
   .index .thumbnail.six {
-    background: #13b888 url(/images/homepage/vame-thumb-9fd339d2.png) center center no-repeat; }
+    background: #002033 url(/images/homepage/bank-of-america-thumb-dc522c63.png) center center no-repeat; }
     /* line 156, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
     .index .thumbnail.six:hover {
-      background: #13b888; }
+      background: #002033; }
 /* line 159, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .index footer {
   margin-top: 50px; }
