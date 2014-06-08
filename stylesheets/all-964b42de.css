@@ -153,10 +153,10 @@ footer {
       color: white; }
   /* line 147, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
   .index .thumbnail.five {
-    background: #3d5833 url(/images/homepage/local-tribes-thumb-358305d6.jpg) center center no-repeat; }
+    background: #002033 url(/images/homepage/bank-of-america-thumb-dc522c63.png) center center no-repeat; }
     /* line 150, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
     .index .thumbnail.five:hover {
-      background: #3d5833; }
+      background: #002033; }
   /* line 153, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
   .index .thumbnail.six {
     background: #13b888 url(/images/homepage/vame-thumb-9fd339d2.png) center center no-repeat; }
@@ -172,8 +172,9 @@ footer {
   max-width: 450px;
   margin: 0 auto 25px; }
 
-/* line 180, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+/* line 181, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .project .logo,
+.bank-of-america .logo,
 .hired .logo,
 .the-silk-road .logo,
 .money-and-tech .logo,
@@ -184,8 +185,9 @@ footer {
 .vame .logo {
   display: block;
   margin: 150px auto 250px; }
-/* line 184, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+/* line 185, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .project img,
+.bank-of-america img,
 .hired img,
 .the-silk-road img,
 .money-and-tech img,
@@ -195,8 +197,9 @@ footer {
 .local-tribes img,
 .vame img {
   margin-bottom: 25px; }
-/* line 187, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+/* line 188, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .project h1,
+.bank-of-america h1,
 .hired h1,
 .the-silk-road h1,
 .money-and-tech h1,
@@ -206,8 +209,9 @@ footer {
 .local-tribes h1,
 .vame h1 {
   border-bottom: 1px solid #e6e6e6; }
-/* line 190, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+/* line 191, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .project p,
+.bank-of-america p,
 .hired p,
 .the-silk-road p,
 .money-and-tech p,
@@ -220,8 +224,9 @@ footer {
   float: right;
   width: 425px; }
   @media (max-width: 450px) {
-    /* line 190, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+    /* line 191, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
     .project p,
+    .bank-of-america p,
     .hired p,
     .the-silk-road p,
     .money-and-tech p,
@@ -232,8 +237,9 @@ footer {
     .vame p {
       clear: both;
       width: 100%; } }
-/* line 199, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
+/* line 200, /Users/harold/Sites/notorii/source/stylesheets/all.css.sass */
 .project section,
+.bank-of-america section,
 .hired section,
 .the-silk-road section,
 .money-and-tech section,
