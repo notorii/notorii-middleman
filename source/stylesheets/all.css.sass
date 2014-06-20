@@ -173,7 +173,7 @@ footer
     margin: 0 auto 25px
 
 // project page
- 
+
 .project,
 .bank-of-america,
 .hired,
@@ -219,4 +219,41 @@ footer
 
   .notorii-logo
     background: url('/images/notorii-white.svg') center center no-repeat
+
+// contact page
+
+.contact
+  form
+    input, textarea
+      border: 1px solid rgb(230,230,230)
+      display: block
+      width: 100%
+      margin: 0 0 25px 0
+      padding-left: 15px
+      -webkit-appearance: none
+      outline: none
+
+      &:focus
+        border: 1px solid rgb(0,0,0)
+
+    input
+      height: 50px
+
+    textarea
+      height: 200px
+      margin-top: 15px
+      padding-top: 15px
+
+    .actions
+
+      input[type="submit"]
+        display: inline-block
+        background-color: rgb(255,255,255)
+        border: 1px solid rgb(0,0,0)
+        font-weight: bold
+        margin-top: 25px
+
+        &:hover
+          background-color: rgb(0,0,0)
+          color: rgb(255,255,255)
 
