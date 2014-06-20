@@ -80,3 +80,10 @@ configure :build do
   }
 
 end
+
+# Automatically build before deploy
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.method = :git
+end
+
