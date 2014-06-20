@@ -7,6 +7,9 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+# Use pretty URLs (directory indexes)
+activate :directory_indexes
+
 # Build-specific configuration
 configure :build do
 

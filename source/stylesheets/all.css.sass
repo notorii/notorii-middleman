@@ -31,7 +31,7 @@ img
   max-width: 100%
   margin: 0 auto
 
-.wrapper 
+.wrapper
   margin: 50px
   max-width: 850px
   -webkit-animation: fade-in 1s .1s 1 ease-in both
@@ -43,9 +43,15 @@ img
     margin: 100px auto
 
 nav
-  width: auto
   height: 25px
   margin: 0 0 100px
+
+  .notorii-logo
+    display: inline-block
+    width: 50px
+    height: 25px
+    margin-bottom: 25px
+    background: url('/images/notorii.svg') center center no-repeat
 
   a
     float: left
@@ -178,7 +184,8 @@ footer
 .nicolin-mathiasson,
 .os-x-icons,
 .local-tribes,
-.vame
+.vame,
+.dropprice
   .logo
     display: block
     margin: 150px auto 250px
@@ -200,3 +207,18 @@ footer
 
   section
     margin: 200px 0 0 0
+
+// project-specific
+
+.dropprice
+  background: #000000
+
+  &, a
+    color: #ffffff
+
+  .notorii-logo
+    background: url('/images/notorii-white.svg') center center no-repeat
+
+  section img
+    text-align: center
+
