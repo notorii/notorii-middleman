@@ -24,6 +24,9 @@
 
     <title><%= current_page.data.title || "notorii" %></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <% if current_page.data.private %>
+      <meta name="robots" content="noindex, nofollow">
+    <% end %>
 
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag  "all" %>
