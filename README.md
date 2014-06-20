@@ -1,3 +1,5 @@
+# notorii
+
 notorii uses [Middleman](http://middlemanapp.com/), a static site generator.
 
 ### Server
@@ -16,7 +18,7 @@ To build the site (to the `build` directory):
 
 To deploy to GitHub pages, [middleman-deploy](https://github.com/karlfreeman/middleman-deploy) is used.
 
-`middleman deploy`
+`bundle exec middleman deploy`
 
 A build will run automatically before deploying.
 
