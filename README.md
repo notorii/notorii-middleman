@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # notorii
+=======
+### Framework
+>>>>>>> Stashed changes
 
 notorii uses [Middleman](http://middlemanapp.com/), a static site generator.
 
