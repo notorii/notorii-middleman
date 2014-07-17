@@ -28,17 +28,19 @@ title: notorii - hired
 </section>
 
 <section>
-  <%= image_tag 'projects/hired/hired-brand-manual-01.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-02.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-03.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-04.jpg' %> 
-  <%= image_tag 'projects/hired/hired-brand-manual-05.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-06.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-07.jpg' %> 
-  <%= image_tag 'projects/hired/hired-brand-manual-08.jpg' %>
-  <%= image_tag 'projects/hired/hired-brand-manual-09.jpg' %>  
-  <%= image_tag 'projects/hired/hired-brand-manual-10.jpg' %>  
-  <%= image_tag 'projects/hired/hired-brand-manual-11.jpg' %>           
+  <% link_to 'images/projects/hired/hired-brand-manual.pdf' do %>
+    <%= image_tag 'projects/hired/hired-brand-manual-01.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-02.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-03.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-04.jpg' %> 
+    <%= image_tag 'projects/hired/hired-brand-manual-05.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-06.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-07.jpg' %> 
+    <%= image_tag 'projects/hired/hired-brand-manual-08.jpg' %>
+    <%= image_tag 'projects/hired/hired-brand-manual-09.jpg' %>  
+    <%= image_tag 'projects/hired/hired-brand-manual-10.jpg' %>  
+    <%= image_tag 'projects/hired/hired-brand-manual-11.jpg' %>
+  <% end %>             
 </section>
 
 <hgroup>
@@ -48,14 +50,23 @@ title: notorii - hired
   <p>
   Driven by Hired's goal of becoming the source for the best talent and opportunities in the technology industry, we crafted a digital luxury brand.
   <p>
-  A comprehensive brand manual was developed articulating the company's core tenements, logo, icon, color scheme, typography, collateral, interior design, and proper usage.
+  Gotham was a logical choice as the company's typeface due to it's streamlined appearance, diversity of weights, and prcise webfont rendering. Loose letterspacing in the logotype and headers create a feeling of harmony and reverence.
   </p>
+  <p> Light gray and charcoal background and text color reduce eye strain by lowering the contrast of the user interface. Braun's product design programme was the inspiration for the brand's interface colors; the functional connotations of each are universally recognized.
+  </p>
+  <p>
+    <% link_to 'images/projects/hired/hired-brand-manual.pdf', class:"reference" do %>
+       PDF
+    <% end %>
+  </p>  
   <div class="clearfix">
   </div>  
 </hgroup>
 
 <section>
-  <%= image_tag 'projects/hired/hired-ui-library.jpg' %>
+  <% link_to 'images/projects/hired/hired-ui-library.pdf' do %>
+    <%= image_tag 'projects/hired/hired-ui-library.png' %>
+  <% end %>  
 </section>
 
 <hgroup>
@@ -65,6 +76,11 @@ title: notorii - hired
   <p>
   Hired's website is composed of a pure code interface utilizing SASS and icon fonts for a lightweight, scalable design. A full front-end library of reusable user interface modules was developed for rapid prototyping and development.
   </p>
+  <p>
+    <% link_to 'images/projects/hired/hired-ui-library.pdf', class:"reference" do %>
+       PDF
+    <% end %>
+  </p>  
   <div class="clearfix">
   </div>  
 </hgroup>
@@ -86,7 +102,7 @@ title: notorii - hired
 </hgroup>
 
 <section>
-  <%= image_tag 'projects/hired/hired-profile-page.jpg' %>
+  <%= image_tag 'projects/hired/hired-profile-page.png' %>
 </section>
 
 <hgroup>
@@ -94,8 +110,7 @@ title: notorii - hired
   Product Design
   </h1>
   <p>
-    A full re-factor of the front-end codebase was required to apply the new visual identity.
-    We used the opportunity to revamp interior pages to have a clear hierarchy, and emphasize primary user actions.
+   Interior pages were redesigned to have a clear hierarchy, and emphasize primary user actions.
   </p>  
   <div class="clearfix">
   </div>  
