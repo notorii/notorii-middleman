@@ -1,20 +1,29 @@
+// Imports
+
+@import "bourbon"
+
 // Global
+
+@include font-face(MenloRegular, '/fonts/Menlo/Menlo-Regular')
+@include font-face(MenloBold, '/fonts/Menlo/Menlo-Bold', bold)
 
 *
   box-sizing: border-box
 
 body
-  font: 12px/25px menlo, "monospaced"
+  font: 12px/25px MenloRegular, "monospaced"
 
 a
   text-decoration: none
   color: black
-  font-weight: bold
+  font-family: MenloBold
 
   &:hover
     text-decoration: underline
 
-
+b
+  font-family: MenloBold
+  font-weight: normal
 
 h1,
 h2,
@@ -279,7 +288,7 @@ footer
         display: inline-block
         background-color: rgb(255,255,255)
         border: 1px solid rgb(0,0,0)
-        font-weight: bold
+        font-family: MenloBold
         margin: 25px 0 0 0
 
         &:hover
