@@ -247,7 +247,7 @@ footer
     float: right
     width: 425px
 
-    @media (max-width: 450px)
+    @media (max-width: 525px) // 525px = 425px (p) + 50px/50px wrapper margins
       clear: both
       width: 100%
 
@@ -268,6 +268,17 @@ footer
 
   h1
     border-color: rgb(100,100,100)
+
+.muni
+  section.mobile-app
+    img
+      width: 100%
+      box-shadow: 1px 1px 1px 1px rgba(50, 50, 50, 0.1)
+    @media (min-width: 450px)
+      img
+        width: 48%
+        &:nth-child(odd)
+          margin-right: 4%
 
 // contact page
 
